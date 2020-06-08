@@ -174,10 +174,11 @@ const Editor = {
     this.$editInput = $('.editor textarea')
     this.$saveBtn = $('.editor .button-save')
     this.markdown = localStorage.markdown || `# obsidian slide
-更简洁、更高效
+点击页面右下角箭头开始
 ##  
-* 鼠标放置在页面左上方开始
-* 点击右下方箭头可切换页面
+* 请将鼠标放置在页面左上方
+* 点击小齿轮，开始编辑Markdown
+* 更多参考请点击下一页
 ## 关于Obsidian Slide
 ### 一款在线ppt编辑器
 * 基于reveal.js

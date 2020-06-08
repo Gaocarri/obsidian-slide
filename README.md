@@ -1,7 +1,3 @@
-# ObsidianSlide介绍
-
-Obsidian是一款基于reveal.js、使用Markdown语法制作ppt的网页应用。
-
 # 基于reveal.js
 
 1. reveal.js提供了较为完整的底层，在demo.html中写入html或者markdown即可生成页面，如：
